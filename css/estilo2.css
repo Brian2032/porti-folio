@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    color: white;
+}
+h2{
+    color: blue;
+}
+body{
+  
+    background-image: url(./img.jpg);
+      }
+
+.te{
+background: black;
+}
+a {
+    color: blue;
+  }
+  h3{
+      color: white;
+  }
+  iframe{
+    width: 1500px;
+    height: 600px;
+  }
+  .teste{
+    color: white;
+    
+  }

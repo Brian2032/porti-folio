@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+   
+    }
+   
+    body{
+  background-image: url(./img.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+    }
+h1{
+  color: white;
+}
+a {
+  color: blue;
+}
+label{
+  color: white;
+}
+textarea{
+  height: 140px;
+  width: 400px;
+}
